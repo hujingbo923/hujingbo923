@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [hujingbo]</h1>
+<h3 align="center">一个热爱 [AI] 的学生开发者</h3>
+
+### 📫 How to reach me
+
+mail:Jingbo923@outlook.com
+
+Github:hujingbo923
+
 
 <!--
 **hujingbo923/hujingbo923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

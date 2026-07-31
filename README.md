@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm [hujingbo]</h1>
-<h3 align="center">一个热爱 [AI] 的学生开发者</h3>
+## Hi 👋, I'm jingbo hu
+
+## 一个热爱 AI 的学生开发者
 
 ### 📫 How to reach me
 

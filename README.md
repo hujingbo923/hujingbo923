@@ -1,19 +1,25 @@
 # Hi 👋, I'm jingbo hu
 
-## About me
+## 🔭 About me
 
 I am currently an undergraduate student (B.S. candidate) at Beihang University. My research interests span Large Language Models (LLMs), AI infrastructure (AI Infra), and Multimodal Large Language Models (MLLMs). Previously, I interned at AK Optics Technology Co., Ltd. and ByteDance, where I gained hands-on experience in both industrial R&D and large-scale engineering.
 
 I am highly motivated to foster academic/industrial collaborations, scientific exchanges, and internship opportunities. If you are interested in my research, potential collaborations, or internships, please feel free to contact me.
 
-## Homepages
+## 📎 Homepages
 
-Personal Pages: https://hujingbo.github.io 
+Personal Pages: https://hujingbo923.github.io 
 
-### 📫 How to reach me
+## 📰 News
 
-mail:Jingbo923@outlook.com/jingbo6923@gmail.com
 
+
+## 📫 How to reach me
+
+mail:Jingbo923@outlook.com
+     jingbo6923@gmail.com
+     24376201@buaa.edu.cn
+     
 Github:hujingbo923
 
 

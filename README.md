@@ -1,5 +1,7 @@
 # Hi 👋, I'm jingbo hu
 
+### May nothing weigh upon your heart, and may all your wishes come true.
+
 ## 🔭 About me
 
 I am currently an undergraduate student (B.S. candidate) at Beihang University. My research interests span Large Language Models (LLMs), AI infrastructure (AI Infra), and Multimodal Large Language Models (MLLMs). Previously, I interned at AK Optics Technology Co., Ltd. and ByteDance, where I gained hands-on experience in both industrial R&D and large-scale engineering.

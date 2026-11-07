@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me
 
-mail:Jingbo923@outlook.com
+mail:Jingbo923@outlook.com/jingbo6923@gmail.com
 
 Github:hujingbo923
 

@@ -1,4 +1,4 @@
-# Hi 👋, I'm jingbo hu
+# 👋 Hi, I'm Jingbo Hu
 
 ### May nothing weigh upon your heart, and may all your wishes come true.
 

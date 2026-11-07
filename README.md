@@ -16,11 +16,9 @@ Personal Pages: https://hujingbo923.github.io
 
 ## 📫 How to reach me
 
-mail:Jingbo923@outlook.com
-     jingbo6923@gmail.com
-     24376201@buaa.edu.cn
+mail: Jingbo923@outlook.com / jingbo6923@gmail.com / 24376201@buaa.edu.cn
      
-Github:hujingbo923
+Github: hujingbo923
 
 
 <!--

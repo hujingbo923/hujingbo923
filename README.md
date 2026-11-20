@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Jingbo Hu
 
-### May nothing weigh upon your heart, and may all your wishes come true.
-
 <p align="center">
   <a href="https://orcid.org/0009-0007-2528-8599"><img src="https://img.shields.io/badge/ORCID-0009--0007--2528--8599-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/jingbo-hu/"><img src="https://img.shields.io/badge/LinkedIn-jingbo-hu?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/jingbohu923/"><img src="https://img.shields.io/badge/Instagram-jingbohu923-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:jingbo6923@gmail.com"><img src="https://img.shields.io/badge/Email-jingbo6923%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
 </div>
+
+### May nothing weigh upon your heart, and may all your wishes come true.
 
 ## 🔭 About me
 

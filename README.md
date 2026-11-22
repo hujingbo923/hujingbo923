@@ -1,22 +1,12 @@
 # 👋 Hi, I'm Jingbo Hu
 
 <p align="center">
-  <a href="https://orcid.org/0009-0007-2528-8599">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--2528--8599-A6CE39?style=for-the-badge&labelColor=24292F&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>&nbsp;
-  <a href="mailto:jingbo6923@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jingbo6923%40gmail.com-D14836?style=for-the-badge&labelColor=24292F&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://orcid.org/0009-0007-2528-8599"><img src="https://img.shields.io/badge/ORCID-0009--0007--2528--8599-A6CE39?style=for-the-badge&labelColor=24292F&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
+  <a href="mailto:jingbo6923@gmail.com"><img src="https://img.shields.io/badge/Email-jingbo6923%40gmail.com-D14836?style=for-the-badge&labelColor=24292F&logo=gmail&logoColor=white" alt="Email" /></a>
   <br />
-  <a href="https://www.linkedin.com/in/jingbo-hu/">
-    <img src="https://img.shields.io/badge/LinkedIn-jingbo--hu-0A66C2?style=for-the-badge&labelColor=24292F&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://x.com/jingbo923">
-    <img src="https://img.shields.io/badge/X-%40jingbo923-000000?style=for-the-badge&labelColor=24292F&logo=x&logoColor=white" alt="X" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/jingbohu923/">
-    <img src="https://img.shields.io/badge/Instagram-%40jingbohu923-E4405F?style=for-the-badge&labelColor=24292F&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://www.linkedin.com/in/jingbo-hu/"><img src="https://img.shields.io/badge/LinkedIn-jingbo--hu-0A66C2?style=for-the-badge&labelColor=24292F&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/jingbo923"><img src="https://img.shields.io/badge/X-%40jingbo923-000000?style=for-the-badge&labelColor=24292F&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://www.instagram.com/jingbohu923/"><img src="https://img.shields.io/badge/Instagram-%40jingbohu923-E4405F?style=for-the-badge&labelColor=24292F&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ### May nothing weigh upon your heart, and may all your wishes come true.
